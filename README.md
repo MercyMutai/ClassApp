@@ -5,9 +5,4 @@ I plan to develop a full class app application to make learning easier our next 
 
 --USE CASE--
 
-1. Regular Student
-    -Create Account
-    -View and update profile
-    -Create post
-    -View and reply posts
-    -Delete account
+-Each student must create an account to access all blog functionalities
