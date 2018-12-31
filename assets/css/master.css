@@ -1,0 +1,15 @@
+.avatar{
+	width: 100%;
+}
+.img-icon{
+	width: 100px;
+	height: 100px;
+}
+
+.post-date{
+	display: block;
+	padding: .3rem;
+	margin: .3rem;
+	border-radius: .5rem;
+	background: #f4f4f4;
+}
